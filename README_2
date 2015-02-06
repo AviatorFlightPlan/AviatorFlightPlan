@@ -6,7 +6,8 @@ Directions for github:
   -Go to the top right of the page where it says "branch"
   -Click that and choose patch1.0 from the dropdown menu,
     which I have created as a file we can all edit without worrying about the main file getting corrupted.
-  -Once you have done this, you may then edit the page to your content.
+  -Once you have done this, go to the top right of the text box and click the pencil, 
+    you may then edit the page to your content.
   -When you are finished with a file and have tested it, 
     go back to the "master" branch in the dropdown menu at the top right and add the finished product into that version.
 
