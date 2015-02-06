@@ -8,8 +8,9 @@ Directions for github:
     which I have created as a file we can all edit without worrying about the main file getting corrupted.
   -Once you have done this, go to the top right of the text box and click the pencil, 
     you may then edit the page to your content.
-  -When you are finished with a file and have tested it, 
-    go back to the "master" branch in the dropdown menu at the top right and add the finished product into that version.
+  -To save, scroll down and check the "Commit directly to _____ branch" and then click Commit Changes.
+  -When you are completely finished with a file and have tested it, 
+    go back to the "master" branch in the dropdown menu at the top right and copy/paste the finished product into that version.
 
 When you are done for the day, go to the wiki (located here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/wiki ) 
   and follow the instructions there to make a change log. Please keep up with your change logs, 
