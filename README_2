@@ -4,6 +4,8 @@ Everyone will be treated as adults, and will be responsible for their work. I lo
 Directions for github:
 -To make changes to a document, click on the file you want to edit.
   -Go to the top right of the page where it says "branch"
-  -Click that and type in the bar that appears the name of a new "folder" you want the edited document to be stored. This will make a copy of the original file to ensure that the main file does not get corrupted.
+  -Click that and type in the bar that appears the name of a new "folder" you want the edited document to be stored. 
+    This will make a copy of the original file to ensure that the main file does not get corrupted.
   -Once you have done this, you may then edit the page to your content.
-  -When you are finished with a file and have tested it, go back to the "master" branch in the dropdown menu at the top right and add the finished product into that version
+  -When you are finished with a file and have tested it, 
+    go back to the "master" branch in the dropdown menu at the top right and add the finished product into that version.
