@@ -44,8 +44,7 @@ This allows you to upload changes to the online copy of the repository.
 You now have GitHub set up and you can now begin to push/pull/change files.
 
 At the start of each session, you must do these:
--type cd FOLDER_LOCATION
--type git init
+-Make sure you are in the branch you want to be working on. For more info about branches keep reading.
 -type git pull
 This will allow you to have all the current changes people have uploaded and initialize your files for the session.
 
