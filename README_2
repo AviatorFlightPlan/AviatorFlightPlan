@@ -1,19 +1,62 @@
-As the owner of this organization, I would like to state that this group is to be treated like the workplace. 
-Everyone will be treated as adults, and will be responsible for their work. I look forward to working with everyone.
+Greetings, we would like to welcome everyone to the Aviator Flight Plan Team. 
+If you are looking at this page, you must be new to the team or to GitHub.
+Here, we will provide instructions on how to use GitHub.
+We am committed to keeping this experience as close to how a workplace would be as possible,
+so keep your work professional.
+
+
+Good Luck!
+Project Managers,
+Ben Cohen and Griffin Ramsey
 
 Directions for github:
--To make changes to a document, click on the file you want to edit.
-  -Go to the top right of the page where it says "branch"
-  -Click that and choose patch1.0 from the dropdown menu,
-    which I have created as a file we can all edit without worrying about the main file getting corrupted.
-  -Once you have done this, go to the top right of the text box and click the pencil, 
-    you may then edit the page to your content.
-  -To save, scroll down and check the "Commit directly to _____ branch" and then click Commit Changes.
-  -When you are completely finished with a file and have tested it, 
-    go back to the "master" branch in the dropdown menu at the top right and copy/paste the finished product into that version.
 
-When you are done for the day, go to the wiki (located here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/wiki ) 
-  and follow the instructions there to make a change log. Please keep up with your change logs, 
-  they are important for tracking our progress.
+-If you have not already, create a GitHub account. There should be a link somewhere at the top right of GitHub.com.
+-Next, unless you've already done so, ask a project manager for access to the files.
 
-Testing the Merge feature
+Now you are ready to download GitHub.
+-First, install GitHub to your computer. Choose the correct link for your system.
+Windows: https://windows.github.com/
+Mac: https://mac.github.com/
+Linux: This is a bit complicated if you're used to using a non-linux machine.
+-Open the terminal (For most versoins of linux, the hotkey is Ctrl + Alt + T).
+-In the terminal, type sudo apt-get install git
+-Press enter and now type git config --global user.name "YOUR NAME"
+-Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
+
+Now we can start learning how to use GitHub
+-Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) and go to the bottom right corner and click "clone in desktop"
+-Now that you have GitHub installed and cloned the files, look for a program that should have installed with GitHub called Git Shell, or something similar.
+-Once that opens, find your folder that you just cloned. Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
+-Copy the location you found your folder in and go into the Git Shell you opened earlier.
+-Now type cd FOLDER_LOCATION_YOU_JUST_COPIED
+What that just did was allow the program to know where to look when editing your files.
+-If you did not press enter, please press enter, and from now on, always just assume to press enter after typing something into this program.
+-Next, type git init
+This initializes your repository so that you can work with it.
+-Once you do that, type git remote add origin https://github.com/AviatorFlightPlan/AviatorFlightPlan
+This allows you to upload changes to the online copy of the repository.
+
+You now have GitHub set up and you can now begin to push/pull/change files.
+
+At the start of each session, you must do these:
+-type cd FOLDER_LOCATION
+-type git init
+-type git pull
+This will allow you to have all the current changes people have uploaded and initialize your files for the session.
+
+To use Github:
+-To add a new file to the repository, put the file in the folder location you specified a few steps above, then type git add FILE_NAME
+Or: to add every file in your folder, type git add *
+-To check if your file has been uploaded online, type git status
+Files that are not uploaded will be listed.
+-To save a local copy of your changes, type git commit -m "TYPE_CHANGES_HERE"
+Or: if you have a longer message type, git commit
+This will bring up a long message. Just start typing your message and then just close and save the box that appeared when you are done.
+-To upload all your files type git push
+-To download the latest files from online, type git pull
+-To switch branches, type git checkout NAME_OF_BRANCH
+-To see what branches exist locally, type git branch
+-To push your local branch online, type git push origin BRANCH_NAME
+If you don't know what a branch is, basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.
+
