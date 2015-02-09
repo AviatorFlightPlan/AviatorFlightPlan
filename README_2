@@ -25,13 +25,17 @@ Linux: This is a bit complicated if you're used to using a non-linux machine.
 -Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
 
 Now we can start learning how to use GitHub
--Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) and go to the bottom right corner and click "clone in desktop"
--Now that you have GitHub installed and cloned the files, look for a program that should have installed with GitHub called Git Shell, or something similar.
--Once that opens, find your folder that you just cloned. Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
+-Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) 
+    and go to the bottom right corner and click "clone in desktop"
+-Now that you have GitHub installed and cloned the files, 
+    look for a program that should have installed with GitHub called Git Shell, or something similar.
+-Once that opens, find your folder that you just cloned. 
+    Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
 -Copy the location you found your folder in and go into the Git Shell you opened earlier.
 -Now type cd FOLDER_LOCATION_YOU_JUST_COPIED
 What that just did was allow the program to know where to look when editing your files.
--If you did not press enter, please press enter, and from now on, always just assume to press enter after typing something into this program.
+-If you did not press enter, please press enter, and from now on, 
+    always just assume to press enter after typing something into this program.
 -Next, type git init
 This initializes your repository so that you can work with it.
 -Once you do that, type git remote add origin https://github.com/AviatorFlightPlan/AviatorFlightPlan
@@ -46,20 +50,24 @@ At the start of each session, you must do these:
 This will allow you to have all the current changes people have uploaded and initialize your files for the session.
 
 To use Github:
--To add a new file to the repository, put the file in the folder location you specified a few steps above, then type git add FILE_NAME
+-To add a new file to the repository, put the file in the folder location you specified a few steps above, 
+    then type git add FILE_NAME
 Or: to add every file in your folder, type git add *
 -To check if your file has been uploaded online, type git status
 Files that are not uploaded will be listed.
 -To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
 Or: if you have a longer message type, git commit
-This will bring up a long message. Just start typing your message and then just close and save the box that appeared when you are done.
+This will bring up a long message. Just start typing your message and 
+    then just close and save the box that appeared when you are done.
 *You must do a commit command before you can upload online.
 -To upload all your files type git push
 -To download the latest files from online, type git pull
 -To switch branches, type git checkout NAME_OF_BRANCH
 -To see what branches exist locally, type git branch
 -To push your local branch online, type git push origin BRANCH_NAME
-If you don't know what a branch is, basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.
+If you don't know what a branch is, 
+    basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, 
+    or so you can try out features without ruining the original.
 
 
 Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
