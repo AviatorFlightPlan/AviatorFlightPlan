@@ -64,6 +64,9 @@ This will bring up a long message. Just start typing your message and
 -To switch branches, type git checkout NAME_OF_BRANCH
 Be careful because once you switch, all changes will be made to that new branch you switched to.
 -To see what branches exist locally, type git branch
+-To merge the currently viewed branch and another, type git merge BRANCH_NAME
+*Tip: For this to work correctly, switch to viewing the branch you want to have data merged to,
+    then use the above command with the BRANCH_NAME being the branch that you want give data to the other branch.
 -To push your local branch online, type git push origin BRANCH_NAME
 If you don't know what a branch is, 
     basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, 
