@@ -1,7 +1,7 @@
 Greetings, we would like to welcome everyone to the Aviator Flight Plan Team. 
 If you are looking at this page, you must be new to the team or to GitHub.
 Here, we will provide instructions on how to use GitHub.
-We am committed to keeping this experience as close to how a workplace would be as possible,
+We are committed to keeping this experience as close to how a workplace would be as possible,
 so keep your work professional.
 
 
@@ -50,9 +50,10 @@ To use Github:
 Or: to add every file in your folder, type git add *
 -To check if your file has been uploaded online, type git status
 Files that are not uploaded will be listed.
--To save a local copy of your changes, type git commit -m "TYPE_CHANGES_HERE"
+-To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
 Or: if you have a longer message type, git commit
 This will bring up a long message. Just start typing your message and then just close and save the box that appeared when you are done.
+*You must do a commit command before you can upload online.
 -To upload all your files type git push
 -To download the latest files from online, type git pull
 -To switch branches, type git checkout NAME_OF_BRANCH
