@@ -63,6 +63,7 @@ This will bring up a long message. Just start typing your message and
 -To upload all your files type git push
 -To download the latest files from online, type git pull
 -To switch branches, type git checkout NAME_OF_BRANCH
+Be careful because once you switch, all changes will be made to that new branch you switched to.
 -To see what branches exist locally, type git branch
 -To push your local branch online, type git push origin BRANCH_NAME
 If you don't know what a branch is, 
