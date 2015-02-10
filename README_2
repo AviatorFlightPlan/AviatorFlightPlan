@@ -116,3 +116,12 @@ Hopefully this gives you a great start, and for more commands you may use,
     
 To ensure that you have read this and completed the steps, upload any file that is not a .txt to your fork,
     and request it to be pushed to the main version. We will not allow you to begin any projects until you complete this.
+    
+Troubleshooting:
+A command not working? Here are some common reasons why:
+-Can't push/pull files?
+    You might have unsaved changes.
+    Try typing git commit -a
+-Can't add files? Or change files to be tracked?
+    You may have spelled the file wrong (capitalization matters)
+    You may be in the wrong directory, to reset it, type cd FOLDER_PATH
