@@ -49,8 +49,15 @@ What that just did was allow the program to know where to look when editing your
     always just assume to press enter after typing something into this program.
 -Next, type git init
 This initializes your repository so that you can work with it.
--Once you do that, type git remote add origin https://github.com/AviatorFlightPlan/AviatorFlightPlan
-This allows you to upload changes to the online copy of the repository.
+-Once you do that, type git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan
+This allows you to upload changes to your personal online copy of the repository.
+
+Now you need to link your copy to the main copy so you can pull the current updates.
+-type git remote add upstream https://github.com/AviatorFlightPlan/AviatorFlightPlan
+
+Now to pull updates from the master file without losng your personal edits:
+-type git fetch upstream
+-type git merge upstream/master
 
 You now have GitHub set up and you can now begin to push/pull/change files.
 
