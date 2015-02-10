@@ -55,22 +55,22 @@ This allows you to upload changes to your personal online copy of the repository
 Now you need to link your copy to the main copy so you can pull the current updates.
 -type git remote add upstream https://github.com/AviatorFlightPlan/AviatorFlightPlan
 
-Now to pull updates from the master file without losng your personal edits:
+Now to pull updates from the master file without losing your personal edits:
 -type git fetch upstream
 -type git merge upstream/master
 
 You now have GitHub set up and you can now begin to push/pull/change files.
 
-At the start of each session, you must do these:
+***At the start of each session, you must do these:
+-type git init
 -Make sure you are in the correct directory. If you are not sure, just type cd FOLDER_LOCATION
 (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing cd AviatorFlightPlan works.
 -Make sure you are in the branch you want to be working on. For more info about branches keep reading.
--type git pull
+-type git fetch upstream
+-type git merge upstream/master
 This will allow you to have all the current changes people have uploaded and initialize your files for the session.
--Then it will give instructions to set the upstream, you want to do this.
--Type, git branch --set-upstream-to=origin/master master
 
-To use Github:
+Useful Commands
 -To add a new file to the repository, put the file in the folder location you specified a few steps above, 
     then type git add FILE_NAME
 Or: to add every file in your folder, type git add *
@@ -81,8 +81,7 @@ Or: if you have a longer message type, git commit
 This will bring up a long message. Just start typing your message and 
     then just close and save the box that appeared when you are done.
 *You must do a commit command before you can upload online.
--To upload all your files type git push
--To download the latest files from online, type git pull
+**-To push your changes to your personal online copy, type git push
 -To switch branches, type git checkout NAME_OF_BRANCH
 Be careful because once you switch, all changes will be made to that new branch you switched to.
 -To see what branches exist locally, type git branch
