@@ -76,7 +76,9 @@ Useful Commands
     (Example: git add myfile.txt)
 Or: to add every file in your folder, type git add *
 If your file has spaces in the name, use "FILE_NAME.EXTENSION" (Example: git add "my file is very long.txt")
--To check if your file has been uploaded online, type git status
+*After adding a file you should type git status to make sure the file is being tracked.
+    If it isn't check your spelling and try adding it again, capitalization does matter.
+-To check if your file has been made ready to upload, type git status
 Files that are not uploaded will be listed.
 -To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
 Or: if you have a longer message type, git commit
