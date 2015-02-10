@@ -72,8 +72,10 @@ This will allow you to have all the current changes people have uploaded and ini
 
 Useful Commands
 -To add a new file to the repository, put the file in the folder location you specified a few steps above, 
-    then type git add FILE_NAME
+    then type git add FILE_NAME.EXTENSION
+    (Example: git add myfile.txt)
 Or: to add every file in your folder, type git add *
+If your file has spaces in the name, use "FILE_NAME.EXTENSION" (Example: git add "my file is very long.txt")
 -To check if your file has been uploaded online, type git status
 Files that are not uploaded will be listed.
 -To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
