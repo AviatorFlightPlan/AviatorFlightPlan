@@ -57,6 +57,7 @@ Now you need to link your copy to the main copy so you can pull the current upda
 
 Now to pull updates from the master file without losing your personal edits:
 -type git fetch upstream
+(If no words appear below it, there's a problem. Most likely you have unsaved changes)
 -type git merge upstream/master
 
 You now have GitHub set up and you can now begin to push/pull/change files.
