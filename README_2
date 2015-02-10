@@ -26,7 +26,10 @@ Linux: This is a bit complicated if you're used to using a non-linux machine.
 
 Now we can start learning how to use GitHub
 -Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) 
-    and go to the bottom right corner and click "clone in desktop"
+    and go to the top right corner where it says "fork"
+-Click that and then click on the square that appears for your username.
+This will create a version just for you so you dont have to worry about ruining the original.
+-Now go to the bottom right corner and click "clone in desktop"
 -Now that you have GitHub installed and cloned the files, 
     look for a program that should have installed with GitHub called Git Shell, or something similar.
 -Once that opens, find your folder that you just cloned. 
@@ -38,7 +41,7 @@ What that just did was allow the program to know where to look when editing your
     always just assume to press enter after typing something into this program.
 -Next, type git init
 This initializes your repository so that you can work with it.
--Once you do that, type git remote add origin https://github.com/AviatorFlightPlan/AviatorFlightPlan
+-Once you do that, type git remote add origin https://github.com/YOUR_USERNAME_HERE/AviatorFlightPlan
 This allows you to upload changes to the online copy of the repository.
 
 You now have GitHub set up and you can now begin to push/pull/change files.
@@ -73,6 +76,15 @@ Be careful because once you switch, all changes will be made to that new branch 
 If you don't know what a branch is, 
     basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, 
     or so you can try out features without ruining the original.
+    
+**Once you push an update online, you are not done.
+-By using the push command using the setting you set up through this tutorial, 
+    you are only pushing changes to your personal online copy.
+-Now you need to push it to the main copy which is controlled by the project managers.
+-To do this, look towards the center right of the screen for the link "pull request"
+-At the new screen, make sure the box at the top right says AviatorFlightPlan/AviatorFlightPlan,
+    and the box next to it says YOUR_USER_NAME/AviatorFlightPlan
+-Now you can use this page to create a request for a manager to add your changes to the official version.
 
 
 Hopefully this gives you a great start, and for more commands you may use, 
