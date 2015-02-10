@@ -40,6 +40,8 @@ This will create a version just for you so you dont have to worry about ruining 
 
 -Now that you have GitHub installed and cloned the files, 
     look for a program that should have installed with GitHub called Git Shell, or something similar.
+(I like the PowerShell, if you'd like to use this, go into your desktop GitHub application, and look to the top right,
+    there is a gear icon with options. You can switch to the powershell there.)
 -Once that opens, find your folder that you just cloned. 
     Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
 -Copy the location you found your folder in and go into the Git Shell you opened earlier.
@@ -55,7 +57,7 @@ This allows you to upload changes to your personal online copy of the repository
 Now you need to link your copy to the main copy so you can pull the current updates.
 -type git remote add upstream https://github.com/AviatorFlightPlan/AviatorFlightPlan
 
-Now to pull updates from the master file without losng your personal edits:
+Now to pull updates from the master file without losing your personal edits:
 -type git fetch upstream
 -type git merge upstream/master
 
@@ -65,12 +67,12 @@ At the start of each session, you must do these:
 -Make sure you are in the correct directory. If you are not sure, just type cd FOLDER_LOCATION
 (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing cd AviatorFlightPlan works.
 -Make sure you are in the branch you want to be working on. For more info about branches keep reading.
--type git pull
+-type git init
+-type git fetch upstream
+-type git merge upstream/master
 This will allow you to have all the current changes people have uploaded and initialize your files for the session.
--Then it will give instructions to set the upstream, you want to do this.
--Type, git branch --set-upstream-to=origin/master master
 
-To use Github:
+Useful Commands:
 -To add a new file to the repository, put the file in the folder location you specified a few steps above, 
     then type git add FILE_NAME
 Or: to add every file in your folder, type git add *
