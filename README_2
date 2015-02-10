@@ -41,7 +41,7 @@ What that just did was allow the program to know where to look when editing your
     always just assume to press enter after typing something into this program.
 -Next, type git init
 This initializes your repository so that you can work with it.
--Once you do that, type git remote add origin https://github.com/YOUR_USERNAME_HERE/AviatorFlightPlan
+-Once you do that, type git remote add origin https://github.com/AviatorFlightPlan/AviatorFlightPlan
 This allows you to upload changes to the online copy of the repository.
 
 You now have GitHub set up and you can now begin to push/pull/change files.
