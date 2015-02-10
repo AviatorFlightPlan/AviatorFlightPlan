@@ -86,6 +86,9 @@ This will bring up a long message. Just start typing your message and
     then just close and save the box that appeared when you are done.
 *You must do a commit command before you can upload online.
 **-To push your changes to your personal online copy, type git push
+-To get files from your personal online repository (NOT the master original version, but your personal copy),
+    type git pull
+-To delete uncommitted changes you do not want to keep, type git reset --hard
 -To switch branches, type git checkout NAME_OF_BRANCH
 Be careful because once you switch, all changes will be made to that new branch you switched to.
 -To see what branches exist locally, type git branch
