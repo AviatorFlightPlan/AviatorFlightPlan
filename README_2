@@ -81,7 +81,8 @@ If you don't know what a branch is,
 -By using the push command using the setting you set up through this tutorial, 
     you are only pushing changes to your personal online copy.
 -Now you need to push it to the main copy which is controlled by the project managers.
--To do this, look towards the center right of the screen for the link "pull request"
+-To do this, go to the website (github/YOUR_USER/AviatorFlightPlan) 
+    and look towards the center right of the screen for the link "pull request"
 -At the new screen, make sure the box at the top right says AviatorFlightPlan/AviatorFlightPlan,
     and the box next to it says YOUR_USER_NAME/AviatorFlightPlan
 -Now you can use this page to create a request for a manager to add your changes to the official version.
