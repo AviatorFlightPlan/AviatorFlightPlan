@@ -50,12 +50,8 @@ Ben Cohen and Griffin Ramsey
 * Once you do that, type git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan
 * _This allows you to upload changes to your personal online copy of the repository._
 
-###Now you need to link your copy to the main copy so you can pull the current updates.
-* type git remote add upstream https://github.com/AviatorFlightPlan/AviatorFlightPlan
-
 ###Now to pull updates from the master file without losing your personal edits:
-* type git fetch upstream (If no words appear below when you do this step, there's a problem. Most likely you have unsaved changes)
-* type git merge upstream/master
+* type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
 * __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
 
 ###You now have GitHub set up and you can now begin to push/pull/change files.
