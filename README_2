@@ -30,6 +30,14 @@ Now we can start learning how to use GitHub
 -Click that and then click on the square that appears for your username.
 This will create a version just for you so you dont have to worry about ruining the original.
 -Now go to the bottom right corner and click "clone in desktop"
+**Sometimes the above step does not work, if this is the case, follow these steps:
+    -Open the GitHub program you installed earlier (not the command line, the other one)
+    -Click the + in the top right.
+    -Click on your username on the right.
+    -Click clone at the top, then select AviatorFlightPlan.
+    -Click the check at the bottom and save it to your GitHub folder. If you have no GitHub folder, make one.
+    -Copy this folder path for later.
+
 -Now that you have GitHub installed and cloned the files, 
     look for a program that should have installed with GitHub called Git Shell, or something similar.
 -Once that opens, find your folder that you just cloned. 
