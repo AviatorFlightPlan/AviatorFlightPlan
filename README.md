@@ -3,3 +3,5 @@ Sycamore Community School's website striving to provide students with informatio
 
 
 Check out Instructions.md for directions about GitHub.
+
+Have a nice day.
