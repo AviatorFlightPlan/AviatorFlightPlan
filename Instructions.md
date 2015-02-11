@@ -43,6 +43,7 @@ Ben Cohen and Griffin Ramsey
 * Once that opens, find your folder that you just cloned. Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
 * Copy the location you found your folder in and go into the Git Shell you opened earlier.
 * Now type cd FOLDER_LOCATION_YOU_JUST_COPIED
+* _Note: often in command line programs, you need to right click to be able to paste text._
 * _What that just did was allow the program to know where to look when editing your files._
 * If you did not press enter, please press enter, and from now on, always just assume to press enter after typing something into this program.
 * Next, type git init
