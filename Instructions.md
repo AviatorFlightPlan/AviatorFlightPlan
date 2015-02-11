@@ -61,8 +61,7 @@ Ben Cohen and Griffin Ramsey
 * type git init
 * Make sure you are in the correct directory. If you are not sure, just type cd FOLDER_LOCATION (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing cd AviatorFlightPlan works.
 * Make sure you are in the branch you want to be working on. For more info about branches keep reading.
-* type git fetch upstream
-* type git merge upstream/master
+* type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/
 * _This will allow you to have all the current changes people have uploaded and initialize your files for the session._
 
 ##Useful Commands
