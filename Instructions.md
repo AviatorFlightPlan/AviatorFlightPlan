@@ -75,7 +75,8 @@ Ben Cohen and Griffin Ramsey
 * To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
   * Or: if you have a longer message type, git commit
 * _This will bring up a long message. Just start typing your message and then just close and save the box that appeared when you are done._
-* You must do a commit command before you can upload online.
+  * Also, if you want to commit all changes you've made recently, type git commit -a
+* __*You must do a commit command before you can upload online.*__
 * __To push your changes to your personal online copy, type git push__
 * To get files from your personal online repository (_NOT_ the master original version, but your personal copy), type git pull
 * To delete uncommitted changes you do not want to keep, type git reset --hard
