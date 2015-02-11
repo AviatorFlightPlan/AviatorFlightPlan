@@ -13,6 +13,8 @@ Ben Cohen and Griffin Ramsey
 
 #Directions for github:
 
+__Please read the entire tutorial, even if you use the video tutorials to help you along with pieces of it if you are stuck (which is great, that is what they are for), the text will give you the most information about what you need to do.__
+
 * If you have not already, create a GitHub account. There should be a link somewhere at the top right of GitHub.com.
 * Next, unless you've already done so, ask a project manager for access to the files.
 
@@ -53,9 +55,13 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 * Once you do that, type git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan
 * _This allows you to upload changes to your personal online copy of the repository._
 
+Video Tutorial: http://youtu.be/f3ZWImsfXO4
+
 ####Now to pull updates from the master file without losing your personal edits:
 * type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
 * __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
+
+Video Tutorial included in the above video totorial.
 
 ####You now have GitHub set up and you can now begin to push/pull/change files.
 
@@ -65,6 +71,8 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 * Make sure you are in the branch you want to be working on. For more info about branches keep reading.
 * type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/
 * _This will allow you to have all the current changes people have uploaded and initialize your files for the session._
+
+Video Tutorial: http://youtu.be/NwcWxw3zZTc
 
 ##Useful Commands
 * To add a new file to the repository, put the file in the folder location you specified a few steps above, then type git add FILE_NAME.EXTENSION (Example: git add myfile.txt)
@@ -89,7 +97,9 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 * __Tip: For this to work correctly, switch to viewing the branch you want to have data merged to, then use the above command with the BRANCH_NAME being the branch that you want give data to the other branch.__
 * To push your local branch online, type git push origin BRANCH_NAME
 * __If you don't know what a branch is, basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.__
-    
+   
+Video Tutorial: http://youtu.be/ygA731k1vPw
+ 
 ##**Once you push an update online, you are not done.
 * By using the push command using the setting you set up through this tutorial, you are only pushing changes to your personal online copy.
 * Now you need to push it to the main copy which is controlled by the project managers.
@@ -97,6 +107,7 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 * At the new screen, make sure the box at the top right says AviatorFlightPlan/AviatorFlightPlan, and the box next to it says YOUR_USER_NAME/AviatorFlightPlan
 * Now you can use this page to create a request for a manager to add your changes to the official version.
 
+Video Tutorial is included in the video totorial above.
 
 ####Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
     
