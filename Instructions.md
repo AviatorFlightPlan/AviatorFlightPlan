@@ -1,6 +1,6 @@
 Greetings, we would like to welcome everyone to the Aviator Flight Plan Team. 
 If you are looking at this page, you must be new to the team or to GitHub.
-Here, we will provide instructions on how to use GitHub.
+Here, we will provide instructions on how to use GitHub as well as a link to a video version of the tutorial, if you get stuck on the text version.
 We are committed to keeping this experience as close to how a workplace would be as possible,
 so keep your work professional.
 
@@ -25,6 +25,8 @@ Ben Cohen and Griffin Ramsey
   * In the terminal, type sudo apt-get install git
   * Press enter and now type git config --global user.name "YOUR NAME"
   * Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
+  
+Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 
 ####Now we can start learning how to use GitHub
 * Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) and go to the top right corner where it says "fork"
