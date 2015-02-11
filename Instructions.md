@@ -16,7 +16,7 @@ Ben Cohen and Griffin Ramsey
 * If you have not already, create a GitHub account. There should be a link somewhere at the top right of GitHub.com.
 * Next, unless you've already done so, ask a project manager for access to the files.
 
-###Now you are ready to download GitHub.
+####Now you are ready to download GitHub.
 * First, install GitHub to your computer. Choose the correct link for your system.
 * Windows: https://windows.github.com/
 * Mac: https://mac.github.com/
@@ -26,7 +26,7 @@ Ben Cohen and Griffin Ramsey
   * Press enter and now type git config --global user.name "YOUR NAME"
   * Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
 
-###Now we can start learning how to use GitHub
+####Now we can start learning how to use GitHub
 * Go back to the repository page on the GitHub website (https://github.com/AviatorFlightPlan/AviatorFlightPlan) and go to the top right corner where it says "fork"
 * Click that and then click on the square that appears for your username.
 * _This will create a version just for you so you dont have to worry about ruining the original._
@@ -50,11 +50,11 @@ Ben Cohen and Griffin Ramsey
 * Once you do that, type git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan
 * _This allows you to upload changes to your personal online copy of the repository._
 
-###Now to pull updates from the master file without losing your personal edits:
+####Now to pull updates from the master file without losing your personal edits:
 * type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
 * __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
 
-###You now have GitHub set up and you can now begin to push/pull/change files.
+####You now have GitHub set up and you can now begin to push/pull/change files.
 
 ##***At the start of each session, you must do these:
 * type git init
@@ -95,7 +95,7 @@ Ben Cohen and Griffin Ramsey
 * Now you can use this page to create a request for a manager to add your changes to the official version.
 
 
-###Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
+####Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
     
 To ensure that you have read this and completed the steps, upload any file that is not a .txt to your fork, and request it to be pushed to the main version. We will not allow you to begin any projects until you complete this.
     
