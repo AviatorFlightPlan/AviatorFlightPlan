@@ -23,7 +23,7 @@ __Please read the entire tutorial, even if you use the video tutorials to help y
 * Windows: https://windows.github.com/
 * Mac: https://mac.github.com/
 * __Linux: This is a bit complicated if you're used to using a non-linux machine.__
-  * Open the terminal (For most versoins of linux, the hotkey is Ctrl + Alt + T).
+  * Open the terminal (For most versions of linux, the hotkey is Ctrl + Alt + T).
   * In the terminal, type sudo apt-get install git
   * Press enter and now type git config --global user.name "YOUR NAME"
   * Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
