@@ -13,7 +13,7 @@ Ben Cohen and Griffin Ramsey
 
 #Directions for github:
 
-__Please read the entire tutorial, even if you use the video tutorials to help you along with pieces of it if you are stuck (which is great, that is what they are for), the text will give you the most information about what you need to do. I know there is quite a bit of text, but all of it is important and I have made videos to help you along with the process.__
+__Please read the entire tutorial, even if you use the video tutorials to help you along with pieces of it if you are stuck (which is great, that is what they are for), the text will give you the most information about what you need to do. We know there is quite a bit of text, but all of it is important and videos have been made to help you along with the process.__
 
 * If you have not already, create a GitHub account. There should be a link somewhere at the top right of GitHub.com.
 * Next, unless you've already done so, ask a project manager for access to the files.
