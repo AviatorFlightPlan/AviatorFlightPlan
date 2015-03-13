@@ -61,7 +61,7 @@ Video Tutorial: http://youtu.be/f3ZWImsfXO4
 * type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
 * __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
 
-Video Tutorial included in the above video totorial.
+Video Tutorial included in the above video tutorial.
 
 ####You now have GitHub set up and you can now begin to push/pull/change files.
 
