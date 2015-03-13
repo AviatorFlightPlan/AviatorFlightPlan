@@ -58,7 +58,7 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 Video Tutorial: http://youtu.be/f3ZWImsfXO4
 
 ####Now to pull updates from the master file without losing your personal edits:
-* type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
+* Type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
 * __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
 
 Video Tutorial included in the above video tutorial.
@@ -66,10 +66,10 @@ Video Tutorial included in the above video tutorial.
 ####You now have GitHub set up and you can now begin to push/pull/change files.
 
 ##***At the start of each session, you must do these:
-* type git init
+* Type git init
 * Make sure you are in the correct directory. If you are not sure, just type cd FOLDER_LOCATION (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing cd AviatorFlightPlan works.
 * Make sure you are in the branch you want to be working on. For more info about branches keep reading.
-* type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/
+* Type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/
 * _This will allow you to have all the current changes people have uploaded and initialize your files for the session._
 
 Video Tutorial: http://youtu.be/NwcWxw3zZTc
