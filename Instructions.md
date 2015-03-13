@@ -107,7 +107,7 @@ Video Tutorial: http://youtu.be/ygA731k1vPw
 * At the new screen, make sure the box at the top right says AviatorFlightPlan/AviatorFlightPlan, and the box next to it says YOUR_USER_NAME/AviatorFlightPlan
 * Now you can use this page to create a request for a manager to add your changes to the official version.
 
-Video Tutorial is included in the video totorial above.
+Video Tutorial is included in the video tutorial above.
 
 ####Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
     
