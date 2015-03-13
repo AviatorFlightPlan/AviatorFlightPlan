@@ -96,7 +96,7 @@ Video Tutorial: http://youtu.be/NwcWxw3zZTc
 * To merge the currently viewed branch and another, type git merge BRANCH_NAME
 * __Tip: For this to work correctly, switch to viewing the branch you want to have data merged to, then use the above command with the BRANCH_NAME being the branch that you want give data to the other branch.__
 * To push your local branch online, type git push origin BRANCH_NAME
-* __If you don't know what a branch is, basically it is a version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.__
+* __If you don't know what a branch is, basically it copies one version and makes a new version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.__
    
 Video Tutorial: http://youtu.be/ygA731k1vPw
  
