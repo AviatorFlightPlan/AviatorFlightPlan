@@ -20,16 +20,20 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.w3schools.com/html/default.asp
 * http://www.codecademy.com/tracks/web
 * http://www.w3schools.com/tags/ (Common tags that are used)
+* http://www.tutorialspoint.com/index.htm
 
 ##CSS
 * http://www.w3schools.com/css/default.asp
 * http://www.codecademy.com/tracks/web
+* http://www.tutorialspoint.com/index.htm
 
 ##Javascript
 * http://www.w3schools.com/js/default.asp
+* http://www.tutorialspoint.com/index.htm
 
 ##SQL (Database Code)
 * http://www.w3schools.com/sql/default.asp
+* http://www.tutorialspoint.com/index.htm
 
 ##Color Hex Codes
 * http://www.w3schools.com/tags/ref_colorpicker.asp
@@ -48,10 +52,12 @@ While working on this project, you may need a tutorial, have some questions abou
   * http://www.w3schools.com/aspnet/aspnet_refhtmlcontrols.asp
 * .net languages
   * https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
+  * http://www.tutorialspoint.com/index.htm
   * https://dotnetcademy.net/
   
 ##C`#`
 * https://dotnetcademy.net/
+* http://www.tutorialspoint.com/index.htm
 
 ##Bootstrap
 * http://getbootstrap.com/
@@ -74,13 +80,17 @@ While working on this project, you may need a tutorial, have some questions abou
 ##Java
 * http://codingbat.com/java
 * http://docs.oracle.com/javase/1.5.0/docs/api/ (Java API)
+* http://www.tutorialspoint.com/index.htm
 * https://www.java.com/en/ (Download of Java, which is used by browsers, games, and IDE's)
 
 ##Python
 * http://www.academia.edu/4903047/Python_-_How_to_Program (Online Textbook for Python)
 * http://www.codecademy.com/en/tracks/python
+* http://www.tutorialspoint.com/index.htm
 * https://www.jetbrains.com/pycharm/ (IDE for python)
 * http://www.python-course.eu/python_tkinter.php (Tkinter tutorial)
+* https://docs.python.org/2/c-api/ (Python API)
+* http://codingbat.com/python (Python Practice)
 
 ##Autodesk Software (Free Student Editions of programs like AutoCad)
 * http://www.autodesk.com/education/free-software/all (list of all the products)
