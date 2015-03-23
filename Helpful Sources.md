@@ -36,6 +36,7 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##MVC (Controller code for linking the client to the server)
 * http://www.asp.net/mvc
+* https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
 
 ##ASP.net (Server/Background Code)
 * Forms
@@ -46,6 +47,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * Commands
   * http://www.w3schools.com/aspnet/aspnet_refhtmlcontrols.asp
 * .net languages
+  * https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
   * https://dotnetcademy.net/
   
 ##C`#`
@@ -139,6 +141,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * https://picoctf.com/ (Security Coding Competition) 
 
 ##Comferences
+* http://www.interactivelearningconference.com/index.html (Playful Learning Summit)
 * http://aims.muohio.edu/gamejam/ (Comference)
 
 ##Camps
