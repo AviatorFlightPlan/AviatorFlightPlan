@@ -150,9 +150,9 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://stemfuse.com/whos-got-game (Coding Competition)
 * https://picoctf.com/ (Security Coding Competition) 
 
-##Comferences
+##Conferences
 * http://www.interactivelearningconference.com/index.html (Playful Learning Summit)
-* http://aims.muohio.edu/gamejam/ (Comference)
+* http://aims.muohio.edu/gamejam/ (Conference)
 
 ##Camps
 * https://www.osc.edu/education/si (Camp)
