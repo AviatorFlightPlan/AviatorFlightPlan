@@ -119,7 +119,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.audiomicro.com/royalty-free-music?wlexpid=7F5D08C3F3694F13B8D1A2C9306751C6&wlrefapp=5 (Royalty free songs)
 * http://cooltoolsforschools.wikispaces.com/Music+Tools (List of some open source tools)
 * http://freemusicarchive.org/curator/video?wlexpid=7F5D08C3F3694F13B8D1A2C9306751C6&wlrefapp=5 (Royalty free songs, at the moment of this post)
-* https://www.flickr.com/ (Royalty Free Pictures, as long as it is listed as creative Commons, or Commercial Use)
+* https://www.flickr.com/ (Royalty Free Pictures, as long as it is listed as Creative Commons, or Commercial Use)
 * http://imgmart.com/ (Royalty Free Pictures)
 * http://www.gettyimages.com/creativeimages/royaltyfree (Royalty Free Pictures)
 * http://www.gettyimages.com/footage (You can filter the search to be Royalty Free Videos)
