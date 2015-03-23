@@ -124,7 +124,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.ieee.org/ns/tabmedia/scvis/societies.html (Societies for various topics throughout the tech and engineering industry
 
 ##Work Experience
-* http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati)
+* http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati, you can apply for summer internships as a junior or senior in  high school)
 * http://www.google-melange.com/gsoc/homepage/google/gsoc2015 (Work for Google by programming open source projects over the summer) 
 * http://www.hackreactor.com/ (Real World Coding Experience)
 
