@@ -2,7 +2,7 @@
 While working on this project, you may need a tutorial, have some questions about coding, or where to go next. Since the direction of this project may change in the future, I've included resources for all aspects of technology as well as some other activities that are great for expanding your knowledge (which definitely helps the team!). Here, I have provided a nice list of helpful sites you can use.
 
 ##Career Connections
-* http://education.ohio.gov/Topics/Career-Tech/Career-Connections (Website our aviator flight Plan Career Connections is based on)
+* http://education.ohio.gov/Topics/Career-Tech/Career-Connections (Website our Aviator Flight Plan Career Connections is based on)
 * https://jobseeker.ohiomeansjobs.monster.com/ (Affiliate of Career Connections)
 * https://jobseeker.k-12.ohiomeansjobs.monster.com/Resume/QuickResume.aspx (Resume Builder)
 * http://jobs.k-12.ohiomeansjobs.monster.com/Search.aspx?pg=1&rad=20&rad_units=miles&sid=68 (Job Search)
