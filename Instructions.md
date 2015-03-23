@@ -109,7 +109,7 @@ Video Tutorial: http://youtu.be/ygA731k1vPw
 
 Video Tutorial is included in the video tutorial above.
 
-####Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands
+####Hopefully this gives you a great start, and for more commands you may use, I suggest going here: https://confluence.atlassian.com/display/STASH/Basic+Git+commands or head over to the Helpful Sources.md document in the repository for more.
     
 To ensure that you have read this and completed the steps, upload any file that is not a .txt to your fork, and request it to be pushed to the main version. We will not allow you to begin any projects until you complete this.
     
