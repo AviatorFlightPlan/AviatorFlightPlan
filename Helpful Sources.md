@@ -72,8 +72,10 @@ While working on this project, you may need a tutorial, have some questions abou
 ##Java
 * http://codingbat.com/java
 * http://docs.oracle.com/javase/1.5.0/docs/api/ (Java API)
+* https://www.java.com/en/ (Download of Java, which is used by browsers, games, and IDE's)
 
 ##Python
+* http://www.academia.edu/4903047/Python_-_How_to_Program (Online Textbook for Python)
 * http://www.codecademy.com/en/tracks/python
 * https://www.jetbrains.com/pycharm/ (IDE for python)
 * http://www.python-course.eu/python_tkinter.php (Tkinter tutorial)
