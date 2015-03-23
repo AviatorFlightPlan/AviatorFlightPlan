@@ -1,5 +1,5 @@
 #Helpful Sources
-While working on this project, you may need a tutorial, have some questions about coding, or where to go next. Here I have provided a nice list of helpful sites you can use.
+While working on this project, you may need a tutorial, have some questions about coding, or where to go next. Since the direction of this project may change in the future, I've included resources for all aspects of technology as well as some other activities that are great for expanding your knowledge (which definitely helps the team!). Here I have provided a nice list of helpful sites you can use.
 
 ##Career Connections
 * http://education.ohio.gov/Topics/Career-Tech/Career-Connections (Website our aviator flight Plan Career Connections is based on)
@@ -122,3 +122,24 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
 * http://www.computer.org/portal/web/guest/home (Computer Society)
 * http://www.ieee.org/ns/tabmedia/scvis/societies.html (Societies for various topics throughout the tech and engineering industry
+
+##Work Experience
+* http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati)
+* http://www.google-melange.com/gsoc/homepage/google/gsoc2015 (Work for Google programming open source projects over the summer) 
+* http://www.hackreactor.com/ (Real World Coding Experience)
+
+##Competitions
+* https://www.techolympics.org/ (Tech Olympics)
+* * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
+* http://www.acsl.org/ (Programming Comptetitions)
+* https://codefights.com/ (Coding Competition)
+* http://stemfuse.com/whos-got-game (Coding Competition)
+* https://picoctf.com/ (Security Coding Competition) 
+
+##Comferences
+* http://aims.muohio.edu/gamejam/ (Comference)
+
+##Camps
+* https://www.osc.edu/education/si (Camp)
+* http://cinsam.nku.edu/Student-and-Parents/SummerCamps.html (Camp)
+* http://business.uc.edu/LSI.html (Camp)
