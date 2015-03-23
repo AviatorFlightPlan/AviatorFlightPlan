@@ -13,7 +13,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.careercornerstone.org/ (Not officially related to Career Connections, but has a great list of tech careers)
 
 ##GitHub
-* Instructions to install this are here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/blob/master/Instructions.md
+* Instructions to install this can be found here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/blob/master/Instructions.md
 * https://confluence.atlassian.com/display/STASH/Basic+Git+commands (Common commands)
 
 ##HTML
