@@ -1,5 +1,5 @@
 #Helpful Sources
-While working on this project, you may need a tutorial, have some questions about coding, or where to go next. Since the direction of this project may change in the future, I've included resources for all aspects of technology as well as some other activities that are great for expanding your knowledge (which definitely helps the team!). Here I have provided a nice list of helpful sites you can use.
+While working on this project, you may need a tutorial, have some questions about coding, or where to go next. Since the direction of this project may change in the future, I've included resources for all aspects of technology as well as some other activities that are great for expanding your knowledge (which definitely helps the team!). Here, I have provided a nice list of helpful sites you can use.
 
 ##Career Connections
 * http://education.ohio.gov/Topics/Career-Tech/Career-Connections (Website our aviator flight Plan Career Connections is based on)
