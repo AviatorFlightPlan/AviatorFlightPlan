@@ -125,7 +125,7 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Work Experience
 * http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati)
-* http://www.google-melange.com/gsoc/homepage/google/gsoc2015 (Work for Google programming open source projects over the summer) 
+* http://www.google-melange.com/gsoc/homepage/google/gsoc2015 (Work for Google by programming open source projects over the summer) 
 * http://www.hackreactor.com/ (Real World Coding Experience)
 
 ##Competitions
