@@ -130,7 +130,7 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Competitions
 * https://www.techolympics.org/ (Tech Olympics)
-* * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
+* http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
 * http://www.acsl.org/ (Programming Comptetitions)
 * https://codefights.com/ (Coding Competition)
 * http://stemfuse.com/whos-got-game (Coding Competition)
