@@ -91,6 +91,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.python-course.eu/python_tkinter.php (Tkinter tutorial)
 * https://docs.python.org/2/c-api/ (Python API)
 * http://codingbat.com/python (Python Practice)
+* http://vpython.org/ (3D Python)
 
 ##Autodesk Software (Free Student Editions of programs like AutoCad)
 * http://www.autodesk.com/education/free-software/all (list of all the products)
