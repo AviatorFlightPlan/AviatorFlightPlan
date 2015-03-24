@@ -13,7 +13,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.careercornerstone.org/ (Not officially related to Career Connections, but has a great list of tech careers)
 
 ##GitHub
-* Instructions to install this can be found here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/blob/master/Instructions.md
+* Instructions to install this can be found here: https://github.com/AviatorFlightPlan/AviatorFlightPlan/blob/master/Instructions.md#now-you-are-ready-to-download-github
 * https://confluence.atlassian.com/display/STASH/Basic+Git+commands (Common commands)
 
 ##HTML
@@ -91,6 +91,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.python-course.eu/python_tkinter.php (Tkinter tutorial)
 * https://docs.python.org/2/c-api/ (Python API)
 * http://codingbat.com/python (Python Practice)
+* http://vpython.org/ (3D Python)
 
 ##Autodesk Software (Free Student Editions of programs like AutoCad)
 * http://www.autodesk.com/education/free-software/all (list of all the products)
@@ -101,6 +102,11 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Photoshop
 * http://www.photoshop.com/products
+
+##Blender
+* http://www.blender.org/ (Free Download, a 3D modeling tool used by many animators)
+* http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro (Tutorial)
+* http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Tutorial_Links_List#Interface (More Tutorials)
 
 ##Audacity
 * http://audacity.sourceforge.net/download/ (Free Sound editor)
@@ -116,6 +122,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * https://obsproject.com/ (Free screen recorder with many customization options. Popular among the website, Twitch)
 
 ##Royalty Free Products
+* http://www.techsupportalert.com/ (Free PC and mobile applications)
 * http://www.audiomicro.com/royalty-free-music?wlexpid=7F5D08C3F3694F13B8D1A2C9306751C6&wlrefapp=5 (Royalty free songs)
 * http://cooltoolsforschools.wikispaces.com/Music+Tools (List of some open source tools)
 * http://freemusicarchive.org/curator/video?wlexpid=7F5D08C3F3694F13B8D1A2C9306751C6&wlrefapp=5 (Royalty free songs, at the moment of this post)
@@ -141,14 +148,17 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati, you can apply for summer internships as a junior or senior in  high school)
 * http://www.google-melange.com/gsoc/homepage/google/gsoc2015 (Work for Google by programming open source projects over the summer) 
 * http://www.hackreactor.com/ (Real World Coding Experience)
+* http://www.globalknowledge.com/ (Online Training)
 
 ##Competitions
 * https://www.techolympics.org/ (Tech Olympics)
 * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
-* http://www.acsl.org/ (Programming Comptetitions)
+* http://www.acsl.org/ (Coding Comptetitions)
 * https://codefights.com/ (Coding Competition)
 * http://stemfuse.com/whos-got-game (Coding Competition)
 * https://picoctf.com/ (Security Coding Competition) 
+* https://projecteuler.net/ (Coding Competition)
+* http://www.topcoder.com/ (Coding Competition)
 
 ##Conferences
 * http://www.interactivelearningconference.com/index.html (Playful Learning Summit)
