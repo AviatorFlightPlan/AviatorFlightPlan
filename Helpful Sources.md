@@ -102,6 +102,11 @@ While working on this project, you may need a tutorial, have some questions abou
 ##Photoshop
 * http://www.photoshop.com/products
 
+##Blender
+* http://www.blender.org/ (Free Download, a 3D modeling tool used by many animators)
+* http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro (Tutorial)
+* http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Tutorial_Links_List#Interface (More Tutorials)
+
 ##Audacity
 * http://audacity.sourceforge.net/download/ (Free Sound editor)
 
