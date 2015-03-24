@@ -152,10 +152,12 @@ While working on this project, you may need a tutorial, have some questions abou
 ##Competitions
 * https://www.techolympics.org/ (Tech Olympics)
 * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
-* http://www.acsl.org/ (Programming Comptetitions)
+* http://www.acsl.org/ (Coding Comptetitions)
 * https://codefights.com/ (Coding Competition)
 * http://stemfuse.com/whos-got-game (Coding Competition)
 * https://picoctf.com/ (Security Coding Competition) 
+* https://projecteuler.net/ (Coding Competition)
+* http://www.topcoder.com/ (Coding Competition)
 
 ##Conferences
 * http://www.interactivelearningconference.com/index.html (Playful Learning Summit)
