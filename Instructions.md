@@ -27,6 +27,7 @@ __Please read the entire tutorial, even if you use the video tutorials to help y
   * In the terminal, type sudo apt-get install git
   * Press enter and now type git config --global user.name "YOUR NAME"
   * Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
+* Chromebook: Currently unavailable, you'll have to use a different machine.
   
 Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 
