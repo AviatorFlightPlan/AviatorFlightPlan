@@ -76,6 +76,7 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Microsoft Products
 * https://www.dreamspark.com/ (Through Mr. Clark, you can obtain a log in to get full products like Visual Studio free)
+* https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx (Alternate Visual Studio Download)
 
 ##Android
 * http://developer.android.com/sdk/index.html (Editor and compiler for Android apps)
