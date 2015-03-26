@@ -39,6 +39,8 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.w3schools.com/tags/ref_colorpicker.asp
 
 ##MVC (Controller code for linking the client to the server)
+* https://www.youtube.com/playlist?list=PLTKAo6MvXF8Eae0lWzjOh6JtxpqtvwXOT (Mr. Ghantous' UC Class)
+* http://www.asp.net/mvc/overview
 * http://www.asp.net/mvc
 * https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
 
@@ -51,11 +53,14 @@ While working on this project, you may need a tutorial, have some questions abou
 * Commands
   * http://www.w3schools.com/aspnet/aspnet_refhtmlcontrols.asp
 * .net languages
+  * http://www.asp.net/mvc/overview
+  * https://www.youtube.com/playlist?list=PLTKAo6MvXF8Eae0lWzjOh6JtxpqtvwXOT (Mr. Ghantous' UC Class)
   * https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
   * http://www.tutorialspoint.com/index.htm
   * https://dotnetcademy.net/
   
 ##C`#`
+* https://www.youtube.com/playlist?list=PLTKAo6MvXF8FhHjgtpExfEcFfP09qJP8O (
 * https://dotnetcademy.net/
 * http://www.tutorialspoint.com/index.htm
 
@@ -67,9 +72,11 @@ While working on this project, you may need a tutorial, have some questions abou
 ##App Development
 * http://xamarin.com/ (Editor and compiler)
 * http://foundation.zurb.com/ (Turns websites into mobile supported code, free on GitHub)
+* https://www.visualstudio.com/en-us/cordova-vs.aspx (App Builder Tool for IOS and Android)
 
 ##Microsoft Products
 * https://www.dreamspark.com/ (Through Mr. Clark, you can obtain a log in to get full products like Visual Studio free)
+* https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx (Alternate Visual Studio Download)
 
 ##Android
 * http://developer.android.com/sdk/index.html (Editor and compiler for Android apps)
@@ -140,6 +147,7 @@ While working on this project, you may need a tutorial, have some questions abou
 ##Organizations
 * http://interalliance.org/ (Local group trying to keep tech jobs in Cincinnati)
 * http://www.cs2n.org/ (Student computer Science Group)
+* http://www.learn21.org/
 * http://www.usfirst.org/roboticsprograms/frc (Robotics competition groups)
 * http://www.computer.org/portal/web/guest/home (Computer Society)
 * http://www.ieee.org/ns/tabmedia/scvis/societies.html (Societies for various topics throughout the tech and engineering industry
