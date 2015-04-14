@@ -83,6 +83,7 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Android
 * http://developer.android.com/sdk/index.html (Editor and compiler for Android apps)
+* https://www.udacity.com/course/ud853 (Create apps and learn how at the same time)
 
 ##Netbeans
 * https://netbeans.org/ (Free IDE the school uses for Java, however there are numerous plugins for just about any language)
