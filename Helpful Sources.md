@@ -71,6 +71,9 @@ While working on this project, you may need a tutorial, have some questions abou
 
 ##Browser IDE
 * http://www.tutorialspoint.com/codingground.htm (IDE for almost every language there is, usable on your browser and can even save to Github)
+* http://codepen.io/ (Make HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
+* http://jsfiddle.net/ (Make HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
+* http://www.bootply.com/ (Make Bootstrap, HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
 
 ##App Development
 * http://xamarin.com/ (Editor and compiler)
