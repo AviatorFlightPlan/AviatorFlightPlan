@@ -146,6 +146,7 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://www.gettyimages.com/creativeimages/royaltyfree (Royalty Free Pictures)
 * http://www.gettyimages.com/footage (You can filter the search to be Royalty Free Videos)
 * http://pics.tech4learning.com/ (Royalty Free Pictures)
+* http://www.lipsum.com/ (Free random text generator. Makes filler text for paragraohs or sentences that doesn't take away from the design of a site since it looks like real words.)
 
 ##Utilities
 * http://prntscr.com/ (Free screenshot tool to upload a screenshot online to show to someone)
