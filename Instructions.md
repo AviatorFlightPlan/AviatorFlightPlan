@@ -24,9 +24,9 @@ __Please read the entire tutorial, even if you use the video tutorials to help y
 * Mac: https://mac.github.com/
 * __Linux: This is a bit complicated if you're used to using a non-linux machine.__
   * Open the terminal (For most versions of linux, the hotkey is Ctrl + Alt + T).
-  * In the terminal, type sudo apt-get install git
-  * Press enter and now type git config --global user.name "YOUR NAME"
-  * Press enter again and also type git config --global user.email "YOUR EMAIL ADDRESS"
+  * In the terminal, type ``sudo apt-get install git``
+  * Press enter and now type ``git config --global user.name "YOUR NAME"``
+  * Press enter again and also type ``git config --global user.email "YOUR EMAIL ADDRESS"``
 * Chromebook: Currently unavailable, you'll have to use a different machine.
   
 Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
@@ -47,56 +47,56 @@ Video Tutorial: https://www.youtube.com/watch?v=8XDR137mZK4
 * Now that you have GitHub installed and cloned the files, look for a program that should have installed with GitHub called Git Shell, or something similar.
 * Once that opens, find your folder that you just cloned. Mine was located at C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan
 * Copy the location you found your folder in and go into the Git Shell you opened earlier.
-* Now type cd FOLDER_LOCATION_YOU_JUST_COPIED
+* Now type ``cd FOLDER_LOCATION_YOU_JUST_COPIED``
 * _Note: often in command line programs, you need to right click to be able to paste text._
 * _What that just did was allow the program to know where to look when editing your files._
 * If you did not press enter, please press enter, and from now on, always just assume to press enter after typing something into this program.
-* Next, type git init
+* Next, type ``git init``
 * _This initializes your repository so that you can work with it._
-* Once you do that, type git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan
+* Once you do that, type ``git remote add origin https://github.com/YOUR_USER/AviatorFlightPlan``
 * _This allows you to upload changes to your personal online copy of the repository._
 
 Video Tutorial: http://youtu.be/f3ZWImsfXO4
 
 ####Now to pull updates from the master file without losing your personal edits:
-* Type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan
-* __Note, this only takes the file and puts it in local storage, you will still have to use a "git push" to add this to your personal online version.__
+* Type ``git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan``
+* __Note, this only takes the file and puts it in local storage, you will still have to use a "``git push``" to add this to your personal online version.__
 
 Video Tutorial included in the above video tutorial.
 
 ####You now have GitHub set up and you can now begin to push/pull/change files.
 
 ##***At the start of each session, you must do these:
-* Type git init
-* Make sure you are in the correct directory. If you are not sure, just type cd FOLDER_LOCATION (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing cd AviatorFlightPlan works.
+* Type ``git init``
+* Make sure you are in the correct directory. If you are not sure, just type ``cd FOLDER_LOCATION`` (Mine is C:\Users\MYNAME\Documents\GitHub\AviatorFlightPlan) I've also found just typing ``cd AviatorFlightPlan`` works.
 * Make sure you are in the branch you want to be working on. For more info about branches keep reading.
-* Type git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/
+* Type ``git pull https://github.com/AviatorFlightPlan/AviatorFlightPlan/``
 * _This will allow you to have all the current changes people have uploaded and initialize your files for the session._
 
 Video Tutorial: http://youtu.be/NwcWxw3zZTc
 
 ##Useful Commands
-* To add a new file to the repository, put the file in the folder location you specified a few steps above, then type git add FILE_NAME.EXTENSION (Example: git add myfile.txt)
-  * Or: to add every file in your folder, type git add *
-  * If your file has spaces in the name, use "FILE_NAME.EXTENSION" (Example: git add "my file is very long.txt")
-* __After adding a file you should type git status to make sure the file is being tracked.__
+* To add a new file to the repository, put the file in the folder location you specified a few steps above, then type ``git add FILE_NAME.EXTENSION`` (Example: ``git add myfile.txt``)
+  * Or: to add every file in your folder, type ``git add *``
+  * If your file has spaces in the name, use "FILE_NAME.EXTENSION" (Example: ``git add "my file is very long.txt"``)
+* __After adding a file you should type ``git status`` to make sure the file is being tracked.__
     * If it isn't check your spelling and try adding it again, capitalization does matter.
-* To check if your file has been made ready to upload, type git status
+* To check if your file has been made ready to upload, type ``git status``
   * _Files that are not uploaded will be listed._
-* To save a changelog, type git commit -m "TYPE_CHANGES_HERE"
-  * Or: if you have a longer message type, git commit
+* To save a changelog, type ``git commit -m "TYPE_CHANGES_HERE"``
+  * Or: if you have a longer message type, ``git commit``
 * _This will bring up a long message. Just start typing your message and then just close and save the box that appeared when you are done._
-  * Also, if you want to commit all changes you've made recently, type git commit -a
+  * Also, if you want to commit all changes you've made recently, type ``git commit -a``
 * __*You must do a commit command before you can upload online.*__
-* __To push your changes to your personal online copy, type git push__
-* To get files from your personal online repository (_NOT_ the master original version, but your personal copy), type git pull
-* To delete uncommitted changes you do not want to keep, type git reset --hard
-* To switch branches, type git checkout NAME_OF_BRANCH
+* __To push your changes to your personal online copy, type ``git push``__
+* To get files from your personal online repository (_NOT_ the master original version, but your personal copy), type ``git pull``
+* To delete uncommitted changes you do not want to keep, type ``git reset --hard``
+* To switch branches, type ``git checkout NAME_OF_BRANCH``
 * _Be careful because once you switch, all changes will be made to that new branch you switched to._
-* To see what branches exist locally, type git branch
-* To merge the currently viewed branch and another, type git merge BRANCH_NAME
+* To see what branches exist locally, type ``git branch``
+* To merge the currently viewed branch and another, type ``git merge BRANCH_NAME``
 * __Tip: For this to work correctly, switch to viewing the branch you want to have data merged to, then use the above command with the BRANCH_NAME being the branch that you want give data to the other branch.__
-* To push your local branch online, type git push origin BRANCH_NAME
+* To push your local branch online, type ``git push origin BRANCH_NAME``
 * __If you don't know what a branch is, basically it copies one version and makes a new version of a program stored in a separate place than the original version so you don't corrupt files, or so you can try out features without ruining the original.__
    
 Video Tutorial: http://youtu.be/ygA731k1vPw
@@ -118,7 +118,7 @@ To ensure that you have read this and completed the steps, upload any file that 
 A command not working? Here are some common reasons why:
 * Can't push/pull files?
     * You might have unsaved changes.
-    * Try typing git commit -a
+    * Try typing ``git commit -a``
 * Can't add files? Or change files to be tracked?
     * You may have spelled the file wrong (capitalization matters)
-    * You may be in the wrong directory, to reset it, type cd FOLDER_PATH
+    * You may be in the wrong directory, to reset it, type ``cd FOLDER_PATH``
