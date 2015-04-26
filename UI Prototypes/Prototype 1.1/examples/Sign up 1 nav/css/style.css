@@ -1,0 +1,33 @@
+
+body {
+    background-color: #2f2f2f;
+}
+.top-buffer { 
+    margin-top:12px; 
+}
+.hideimg{
+   
+}
+.centerbtn{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    z-index: 2;
+}
+.img-hover img {
+    -webkit-transition: all .3s ease; /* Safari and Chrome */
+  	-moz-transition: all .3s ease; /* Firefox */
+  	-o-transition: all .3s ease; /* IE 9 */
+  	-ms-transition: all .3s ease; /* Opera */
+  	transition: all .3s ease;
+}
+.img-hover img:hover {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform:translateZ(0) scale(1.05); /* Safari and Chrome */
+    -moz-transform:scale(1.05); /* Firefox */
+    -ms-transform:scale(1.05); /* IE 9 */
+    -o-transform:translatZ(0) scale(1.05); /* Opera */
+    transform:translatZ(0) scale(1.05);
+}
+  
