@@ -58,6 +58,9 @@ While working on this project, you may need a tutorial, have some questions abou
   * https://www.youtube.com/user/cmaster383/playlists (Mr. Ghantous' UC Lectures)
   * http://www.tutorialspoint.com/index.htm
   * https://dotnetcademy.net/
+
+##Local Server
+* https://www.apachefriends.org/index.html(Allows you to test web pages on a server. Some features don't work when viewed locally, so you need this to be able to test.)
   
 ##C`#`
 * https://www.youtube.com/playlist?list=PLTKAo6MvXF8FhHjgtpExfEcFfP09qJP8O (
@@ -75,6 +78,9 @@ While working on this project, you may need a tutorial, have some questions abou
 * http://codepen.io/ (Make HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
 * http://jsfiddle.net/ (Make HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
 * http://www.bootply.com/ (Make Bootstrap, HTML, CSS, and Javascript all in one browser page to test out a website. Work can be shared to others via links)
+
+##Free Web Development Tools
+* https://bitnami.com/stack/xampp?utm_source=bitnami&utm_medium=installer&utm_campaign=XAMPP%2BInstaller (free downloads for tons of tools used in web development)
 
 ##App Development
 * http://xamarin.com/ (Editor and compiler)
