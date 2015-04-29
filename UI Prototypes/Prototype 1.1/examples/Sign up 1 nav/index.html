@@ -33,10 +33,10 @@
     <![endif]-->
   </head>
 <body>
-
-    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+<div class="zoom">
+    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle navHide"><i class="fa fa-bars"></i></a>
     <nav id="sidebar-wrapper">
-        <ul class="sidebar-nav">
+        <ul class="sidebar-nav navHide">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
             <li class="sidebar-brand">
                 <a href="../landing-page/index.html">Connections</a>
@@ -57,8 +57,8 @@
 	
 
     </nav>
-<div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-left">
+<div class="navbar-collapse collapse navHide">
+          <ul class="nav navbar-nav navbar-left navHide">
             <li><a href="../Registration Forms/indexLogin.html"><font size="4">Already a member?</font></a></li>
           </ul>
 
@@ -66,24 +66,24 @@
     <div class="container">
     <div class="row">
 
-    <div class="col-lg-6 img-hover">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 img-hover">
         <a href="../Registration Forms/indexStudent.html"><img src="pics/DeathtoStock_Wired5.jpg" class="img-rounded img-responsive hideimg" alt="Student"> </a>
         <a href="../Registration Forms/indexStudent.html" class="btn btn-success btn-lg centerbtn"><i class="fa fa-sign-in fa-fw"></i> <span class="network-name">Student</span></a>
     </div>
 
-    <div class="col-lg-6 img-hover">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 img-hover">
     <a href="../Registration Forms/indexBusiness.html"> <img src="pics/DeathtoStock_Wired2.jpg" class="img-rounded img-responsive hideimg" alt="Business"> </a>
     <a href="../Registration Forms/indexBusiness.html" class="btn btn-default btn-lg centerbtn"><i class="fa fa-sign-in fa-fw"></i> <span class="network-name">Business</span></a>
     </div>
     </div>
     
     <div class="row top-buffer">
-    <div class="col-lg-6 top-buffer img-hover">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 top-buffer img-hover">
     <a href="../Registration Forms/indexStudent.html"> <img src="pics/DeathtoStock_Wired4.jpg" class="img-rounded img-responsive hideimg" alt="Teacher"> </a>
     <a href="../Registration Forms/indexStudent.html" class="btn btn-warning btn-lg centerbtn"><i class="fa fa-sign-in fa-fw"></i> <span class="network-name">Teacher</span></a>
     </div>
 
-    <div class="col-lg-6 top-buffer img-hover">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 top-buffer img-hover">
     <a href="../Nav page 1/index.html"> <img src="pics/DeathtoStock_Wired10.jpg" class="img-rounded img-responsive hideimg" alt="Community"> </a>
     <a href="../Nav page 1/index.html" class="btn btn-primary btn-lg centerbtn"><i class="fa fa-sign-in fa-fw"></i> <span class="network-name">Community</span></a>
     </div>
@@ -133,8 +133,14 @@
     });
     </script>
 
+var scale = 'scale(1)';
+document.body.style.webkitTransform =  scale;    // Chrome, Opera, Safari
+ document.body.style.msTransform =   scale;       // IE 9
+ document.body.style.transform = scale;
+document.body.style.zoom = screen.logicalXDPI / screen.deviceXDPI;
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+</div>
   </body>
 </html>
