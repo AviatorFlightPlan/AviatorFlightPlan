@@ -42,7 +42,7 @@
             <li><a href="#">Teacher</a></li>
             <li><a href="#">Community</a></li>
             <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Grades Dropdown <span class="caret"></span></a>
+                <a href="javascript:return false;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Grades Dropdown <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
 		  <li class="dropdown-header">Possible Header</li>
                   <li><a href="#">K</a></li>
@@ -67,26 +67,12 @@
             </ul>
           </div>
         </div>
-    <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
-    <script>
-      $(document).ready(function() {
-          $("a.dropdown-toggle").click(function(ev) {
-              $("a.dropdown-toggle").dropdown("toggle");
-              return false;
-          });
-          $("ul.dropdown-menu a").click(function(ev) {
-              $("a.dropdown-toggle").dropdown("toggle");
-              return false;
-          });
-      });
-</script>
 
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h1>Aviator Flight Plan</h1>
         <p class="lead">The one-stop location for connecting the classroom to the workplace.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign Up!</a></p>
+        <p><a class="btn btn-lg btn-success" href="../Registration Forms/indexLogin.html" role="button">Log In!</a></p>
       </div>
 
       <!-- Example row of columns -->
@@ -125,6 +111,9 @@
 
     </div> <!-- /container -->
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/dist/js/bootstrap.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.js"></script>
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
