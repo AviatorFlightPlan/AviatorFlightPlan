@@ -86,7 +86,8 @@ body {
   .marketing,
   .footer {
     padding-right: 0;
-    padding-left: 0;
+    padding-left: 0;}
+  .imgHide{ left: -300px;}
   }
 .imgHide {
     position: absolute;
@@ -94,6 +95,12 @@ body {
     top: 0px;
     z-index: -1;
 }
+@media screen and (max-width: 1600px) {
+  .imgHide{ left: -300px;}
+  }
+@media screen and (min-width: 1600px) {
+  .imgHide{ left: 0px;}
+  }
 .center-block 
 {
 text-align: center;
@@ -106,4 +113,5 @@ body
 {
     background-color:lightblue
 }
+
 }
