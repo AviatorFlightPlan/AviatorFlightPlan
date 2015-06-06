@@ -17,6 +17,8 @@
     <!-- Custom styles for this template -->
     <link href="justified-nav.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="styles/main.css"/>
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -44,20 +46,20 @@
             <li class="dropdown">
                 <a href="javascript:return false;" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Grades<span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu">
-		  <li class="dropdown-header">Possible Header</li>
+		  <li class="dropdown-header">Elementary</li>
                   <li><a href="#">K</a></li>
                   <li><a href="#">1st Grade</a></li>
                   <li><a href="#">2nd Grade</a></li>
 		  <li><a href="#">3rd Grade</a></li>
 		  <li><a href="#">4th Grade</a></li>
                   <li class="divider"></li>
-                  <li class="dropdown-header">Nav header 2</li>
+                  <li class="dropdown-header">Middle school</li>
                   <li><a href="#">5th Grade</a></li>
                   <li><a href="#">6th Grade</a></li>
 		  <li><a href="#">7th Grade</a></li>
 		  <li><a href="#">8th Grade</a></li>
 		  <li class="divider"></li>
-		  <li class="dropdown-header">Nav header 3</li>
+		  <li class="dropdown-header">High School</li>
 		  <li><a href="#">9th Grade</a></li>
 		  <li><a href="#">10th Grade</a></li>
 		  <li><a href="#">11th Grade</a></li>
@@ -76,38 +78,91 @@
       </div>
 
       <!-- Example row of columns -->
-      <div class="row">
-        <div class="col-lg-4 center-block"">
+      <div class="row row-centered">
+        <div class="col-lg-6 center-block"">
           <h2>Showcase 1</h2>
-	<img src="boarderline-filler.gif" alt="Aviator Flight Plan" style="width:200px;height:150px">
-          <p class="text-danger">April 21, and May 1, Sycamore High School offered Career Day, with speakers from numerous occupations visited to speak with students.</p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+	<div class="ih-item circle effect19 top_to_bottom center-block"><a href="#">
+                      <div class="img"><img src="images/assets/8.jpg" alt="img"></div>
+                      <div class="info">
+                        <div class="info-back">
+                          <h3>Career Day</h3>
+                          <p>Speakers from all around Cincinnati attended the event.</p>
+                        </div>
+                      </div></a></div>
+
+		</div>
+          <p class="text-danger text-center center-block center-textblock">April 21, and May 1, Sycamore High School offered Career Day, with speakers from numerous occupations visited to speak with students.</p>
+          <!-- <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p> -->
         </div>
-        <div class="col-lg-4 center-block"">
-          <h2>Showcase 2</h2>
-	<img src="boarderline-filler.gif" alt="Aviator Flight Plan" style="width:200px;height:150px">
-          <p>May 8, Seniors from the Advanced Topics in Computer Science class attend Playful Learning Conference at Ohio University to present various projects.</p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+	
+        <div class="row row-centered">
+        <div class="col-lg-6 center-textblock"">
+          <h2 class="text-center">Showcase 2</h2>
+	<div class="ih-item circle effect19 top_to_bottom center-block"><a href="#">
+                      <div class="img"><img src="images/assets/1.jpg" alt="img"></div>
+                      <div class="info">
+                        <div class="info-back">
+                          <h3>Playful Learning Summit</h3>
+                          <p>Seniors presented projects like robotics, virtual reality, and the creation of this website.</p>
+                        </div>
+                      </div></a></div>
+
+		</div>
+          <p class="text-center center-block">May 8, Seniors from the Advanced Topics in Computer Science class attend Playful Learning Conference at Ohio University to present various projects.</p>
+         <!-- <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p> -->
        </div>
-        <div class="col-lg-4 center-block"">
-          <h2>Showcase 3</h2>
-	<img src="boarderline-filler.gif" alt="Aviator Flight Plan" style="width:200px;height:150px">
-          <p>May 19, Seniors will present their research from the semester in front of peers and other visitors at Capstone Night</p>
-          <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p>
+
+       <div class="row row-centered">
+        <div class="col-lg-6 center-textblock"">
+          <h2 class="text-center">Showcase 3</h2>
+	<div class="ih-item circle effect19 top_to_bottom center-block"><a href="#">
+                      <div class="img"><img src="images/assets/7.jpg" alt="img"></div>
+                      <div class="info">
+                        <div class="info-back">
+                          <h3>Capstone Night</h3>
+                          <p>Seniors successfully presented their research at Capstone Night.</p>
+                        </div>
+                      </div></a></div>
+
+		</div>
+          <p class="text-center center-textblock">May 19, Seniors presented their research from the semester in front of peers and other visitors at Capstone Night</p>
+         <!--  <p><a class="btn btn-primary" href="#" role="button">View details &raquo;</a></p> -->
         </div>
       </div>
+     </div>
 
 
-<div class="col-lg-4 centerMe"">
-<div class="alert alert-success" role="alert">
+<div class="row row-centered">
+<div class="col-md-6 col-md-offset-6 centerMe text-center center-block"">
+<div class="alert alert-success centerMe col-md-offset-6" role="alert">
         <strong>Well done!</strong> You have earned the achievement <i>Sample Me</i>.
       	</div>
 	</div>
+</div>
 
       <!-- Site footer -->
-      <footer class="footer">
-        <p>&copy; Company 2015</p>
-      </footer>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="list-inline">
+                        <li>
+                            <a href="../landing-page (Start Here)/index.html">Home</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="https://github.com/AviatorFlightPlan/AviatorFlightPlan/wiki">About</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="https://github.com/AviatorFlightPlan/AviatorFlightPlan/wiki">Contact</a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted small">Copyright &copy; Your Company 2015. All Rights Reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     </div> <!-- /container -->
 
@@ -117,5 +172,6 @@
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+<script src="scripts/app.js"></script>
   </body>
 </html>
